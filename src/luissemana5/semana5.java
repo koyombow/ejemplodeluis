@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class semana5 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {//esto es un cambio
 	Scanner s= new Scanner (System.in);
 	String pais;
 	String capital;
