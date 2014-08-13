@@ -1,0 +1,6 @@
+Uncaught java.lang.Error exception in thread "main" in a method luissemana5.semana5.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	Type mismatch: cannot convert from String to int
+	Syntax error on token "+", ++ expected
+
+	at luissemana5.semana5.main(semana5.java:16) [file:/home/alumno/luisdanielm/luissemana5/bin/luissemana5/semana5.class]
